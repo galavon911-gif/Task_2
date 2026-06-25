@@ -37,3 +37,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+target/
+allure-results/
+.idea/
+*.iml
+.allure/
+allure-report/
